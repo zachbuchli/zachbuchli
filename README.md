@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-My name is Zach Buchli and I am currently working as a Software Developer at Cirrus Aircraft
+My name is Zach Buchli and I am currently interested in:
 
-My recent interests are:
-- ⚡ Building Web Apps with the Elixir Phoneix framework
-- ⚡ Building Microservices with Go lang
-- ⚡ System Design and Architecture
+⚡ Building Web Apps with the Elixir Phoneix framework
+
+⚡ Building Microservices with Go
+
+⚡ System Design and Architecture
 
 <!--
 **zachbuchli/zachbuchli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
